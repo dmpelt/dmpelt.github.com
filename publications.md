@@ -6,6 +6,10 @@ group: navigation
 
 ## Chronological list of publications
 
+### 2013
+* Pelt, D. M. , & Batenburg, K. J. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *Image Processing, IEEE Transactions on, 22*(12), pp.5238-5251. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6607157&isnumber=6609090)
+* Pelt, D., Sijbers, J., & Batenburg, K.J. (2013), Fast Tomographic Reconstruction from Highly Limited Data Using Artificial Neural Networks, *1st International Conference on Tomography of Materials and Structures (ICTMS)*, pp. 109-112. [\[link\]](http://www.visielab.ua.ac.be/sites/default/files/pelt_ictms_2013.pdf)
+
 ### 2010
 * Pelt, D. M. (2010). Matrix Partitioning: Optimal bipartitioning and heuristic solutions. *Master thesis*. [\[link\]](http://igitur-archive.library.uu.nl/student-theses/2011-0404-200428/UUindex.html)
 

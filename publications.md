@@ -6,6 +6,9 @@ group: navigation
 
 ## Chronological list of publications
 
+### 2014
+* Pelt, D. M., & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. *Proceedings IEEE International Parallel & Distributed Processing Symposium 2014*, IEEE Press, in press.
+
 ### 2013
 * Pelt, D., & Batenburg, K. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *Image Processing, IEEE Transactions on, 22*(12), pp.5238-5251. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6607157&isnumber=6609090)
 * Pelt, D., Sijbers, J., & Batenburg, K. (2013), Fast Tomographic Reconstruction from Highly Limited Data Using Artificial Neural Networks, *1st International Conference on Tomography of Materials and Structures (ICTMS)*, pp. 109-112. [\[link\]](http://www.visielab.ua.ac.be/sites/default/files/pelt_ictms_2013.pdf)

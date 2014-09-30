@@ -19,8 +19,8 @@ Dani&euml;l M. Pelt received the M.Sc. degree in mathematics from the University
 </table>
 
 ## Selected publications
-* Pelt, D. M., & Batenburg, K. J. (2014),Improving Filtered Backprojection Reconstruction by Data-Dependent Filtering. *Image Processing, IEEE Transactions on, 23*(11), pp.4750-4762 [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862004&isnumber=6908104)
-* Pelt, D., & Batenburg, K. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *Image Processing, IEEE Transactions on, 22*(12), pp.5238-5251. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6607157&isnumber=6609090)
+* Pelt, D. M., & Batenburg, K. J. (2014),Improving Filtered Backprojection Reconstruction by Data-Dependent Filtering. *Image Processing, IEEE Transactions on, 23*(11), pp. 4750-4762. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862004&isnumber=6908104)
+* Pelt, D., & Batenburg, K. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *Image Processing, IEEE Transactions on, 22*(12), pp. 5238-5251. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6607157&isnumber=6609090)
 * Filion, L., Marechal, M., van Oorschot, B., Pelt, D., Smallenburg, F., & Dijkstra, M. (2009). Efficient method for predicting crystal structures at finite temperature: Variable box shape simulations. *Physical review letters, 103*(18), 188302. [\[link\]](http://link.aps.org/doi/10.1103/PhysRevLett.103.188302)
 
 ## Contact Information

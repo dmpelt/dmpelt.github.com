@@ -7,7 +7,7 @@ group: navigation
 ## Chronological list of publications
 
 ### 2014
-* Pelt, D. M., & Batenburg, K. J. (2014),Improving Filtered Backprojection Reconstruction by Data-Dependent Filtering. *Image Processing, IEEE Transactions on, 23*(11), pp. 4750-4762. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862004&isnumber=6908104)
+* Pelt, D. M., & Batenburg, K. J. (2014). Improving Filtered Backprojection Reconstruction by Data-Dependent Filtering. *Image Processing, IEEE Transactions on, 23*(11), pp. 4750-4762. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862004&isnumber=6908104)
 * Pelt, D. M., & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. *Proceedings IEEE International Parallel & Distributed Processing Symposium 2014*, IEEE Press, pp. 529-539. [\[link\]](http://www.staff.science.uu.nl/~bisse101/Articles/mediumgrain14.pdf)
 
 ### 2013

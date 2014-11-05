@@ -21,7 +21,7 @@ Pelt, D., & Batenburg, K. (2013). Fast tomographic reconstruction from limited d
 Mondriaan is a sequential program to partition sparse matrices and input and output vectors for parallel sparse matrix-vector multiplication.
 My contribution was adding the medium-grain partitioning method to the program, which is published in:
 
-Pelt, D. M., & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. *Proceedings IEEE International Parallel & Distributed Processing Symposium 2014*, IEEE Press, in press. [\[link\]](http://www.staff.science.uu.nl/~bisse101/Articles/mediumgrain14.pdf)
+Pelt, D. M., & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. *Proceedings IEEE International Parallel & Distributed Processing Symposium 2014*, IEEE Press, pp. 529-539. [\[link\]](http://www.staff.science.uu.nl/~bisse101/Articles/mediumgrain14.pdf)
 
 * [\[More Information\]](http://www.staff.science.uu.nl/~bisse101/Mondriaan/mondriaan.html)
 

@@ -10,6 +10,13 @@ a tomography toolbox based on high-performance GPU primitives for 2D and 3D tomo
 
 * [\[More Information\]](http://dmpelt.github.io/pyastratoolbox/)
 
+## PyMR-FBP
+PyMR-FBP is a Python implementation of the MR-FBP tomographic reconstruction method, published in:
+
+Pelt, D. M., & Batenburg, K. J. (2014). Improving Filtered Backprojection Reconstruction by Data-Dependent Filtering. *Image Processing, IEEE Transactions on, 23*(11), pp. 4750-4762. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862004&isnumber=6908104)
+
+* [\[More Information\]](http://dmpelt.github.io/pymrfbp/)
+
 ## PyNN-FBP
 PyNN-FBP is a Python implementation of the NN-FBP tomographic reconstruction method, published in:
 

@@ -25,3 +25,6 @@ group: navigation
 ### 2009
 * Filion, L., Marechal, M., van Oorschot, B., Pelt, D., Smallenburg, F., & Dijkstra, M. (2009). Efficient method for predicting crystal structures at finite temperature: Variable box shape simulations. *Physical review letters, 103*(18), 188302. [\[link\]](http://link.aps.org/doi/10.1103/PhysRevLett.103.188302)
 
+## Links
+* [Google scholar](https://scholar.google.nl/citations?user=54V8aTMAAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Daniel_Pelt)

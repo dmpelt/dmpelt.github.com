@@ -3,12 +3,17 @@ layout: page
 title: Software
 group: navigation
 ---
+## The ASTRA Toolbox
+The ASTRA Toolbox is a MATLAB and Python toolbox of high-performance GPU primitives for 2D and 3D tomography.
+My contribution to ASTRA is mostly the addition of a Python interface to the toolbox and the addition of a plugin system for new reconstruction algorithms.
 
-## PyASTRAToolbox
-The PyASTRAToolbox is a Python interface to the [ASTRA Toolbox](https://code.google.com/p/astra-toolbox/),
-a tomography toolbox based on high-performance GPU primitives for 2D and 3D tomography.
+* [\[More Information\]](http://www.astra-toolbox.com)
 
-* [\[More Information\]](http://dmpelt.github.io/pyastratoolbox/)
+## TomoPy
+TomoPy is an open-sourced Python toolbox to perform tomographic data processing and image reconstruction of tomographic synchrotron data.
+My contribution to TomoPy was to add the ability to reconstruct using the ASTRA toolbox within TomoPy.
+
+* [\[More Information\]](https://tomopy.readthedocs.org)
 
 ## PyMR-FBP
 PyMR-FBP is a Python implementation of the MR-FBP tomographic reconstruction method, published in:
@@ -32,5 +37,5 @@ Pelt, D. M., & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipart
 
 * [\[More Information\]](http://www.staff.science.uu.nl/~bisse101/Mondriaan/mondriaan.html)
 
-
-
+## PyASTRAToolbox
+The PyASTRAToolbox code has been merged with the main ASTRA toolbox code.

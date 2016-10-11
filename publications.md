@@ -10,6 +10,9 @@ group: navigation
 
 ## Chronological list of publications
 
+### 2016
+* Pelt, D. M., G&uuml;rsoy, D., Palenstijn, W. J., Sijbers, J., De Carlo, F., & Batenburg, K. J. (2016). Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data. *Journal of synchrotron radiation, 23*(3), pp. 842-849. [\[link\]](https://doi.org/10.1107/S1600577516005658)
+
 ### 2015
 * Pelt, D. M., & Bisseling, R. H. (2015). An exact algorithm for sparse matrix bipartitioning. *Journal of Parallel and Distributed Computing, 85*, pp. 79-90. [\[link\]](http://dx.doi.org/10.1016/j.jpdc.2015.06.005)
 * Bladt, E., Pelt, D. M., Bals, S., & Batenburg, K. J. (2015). Electron tomography based on highly limited data using a neural network reconstruction technique. *Ultramicroscopy, 158*, pp. 81-88. [\[link\]](http://dx.doi.org/10.1016/j.ultramic.2015.07.001)

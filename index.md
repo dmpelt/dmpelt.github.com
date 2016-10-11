@@ -10,7 +10,8 @@ tagline: Dani&euml;l M. Pelt
 <table>
 <tr>
 <td>
-Dani&euml;l M. Pelt received the M.Sc. degree in mathematics from the University of Utrecht, Utrecht, The Netherlands in 2010. He is currently pursuing the Ph.D. degree at Centrum Wiskunde en Informatica, Amsterdam, The Netherlands, focusing on limited-data tomographic reconstruction algorithms.
+Dani&euml;l M. Pelt received the M.Sc. degree in mathematics from the University of Utrecht, Utrecht, The Netherlands in 2010, and
+the Ph.D. degree at Leiden University, Leiden, The Netherlands, in 2016. His Ph.D. research was focused on limited-data tomographic reconstruction algorithms. He is currently a post-doc at the Lawrence Berkeley National Laboratory.
 </td>
 <td width="150">
 <img src="http://www.gravatar.com/avatar/f780cc0825e53c68092235e9664dab0d?s=150">
@@ -26,11 +27,8 @@ Dani&euml;l M. Pelt received the M.Sc. degree in mathematics from the University
 ## Contact Information
 
 	Name: 		Daniel M. Pelt
-	Affiliation: 	PhD Student
-			Centrum Wiskunde & Informatica
-			Scientific Computing Group
-			Science Park 123
-			NL-1098XG Amsterdam, The Netherlands
-	Email:		D.M.Pelt@cwi.nl
-	Tel:		+31(0)20 592 4162
-
+	Affiliation: 	Post-Doc
+			Lawrence Berkeley National Laboratory
+			1 Cyclotron Road
+		  Berkeley, CA 94720
+	Email:		DMPelt@lbl.gov

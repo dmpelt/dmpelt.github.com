@@ -11,6 +11,8 @@ group: navigation
 ## Chronological list of publications
 
 ### 2016
+* Pelt, D. M., & Andrade, V. (2016). Improved tomographic reconstruction of large-scale real-world data by filter optimization. *Advanced Structural and Chemical Imaging, 2*(1), 17. [\[link\]](https://ascimaging.springeropen.com/articles/10.1186/s40679-016-0033-y)
+* Pelt, D. M. (2016). Filter-based reconstruction methods for tomography (Doctoral dissertation). [\[link\]](http://hdl.handle.net/1887/39638)
 * Pelt, D. M., G&uuml;rsoy, D., Palenstijn, W. J., Sijbers, J., De Carlo, F., & Batenburg, K. J. (2016). Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data. *Journal of synchrotron radiation, 23*(3), pp. 842-849. [\[link\]](https://doi.org/10.1107/S1600577516005658)
 
 ### 2015

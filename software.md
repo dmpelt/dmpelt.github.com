@@ -15,6 +15,14 @@ My contribution to TomoPy was to add the ability to reconstruct using the ASTRA 
 
 * [\[More Information\]](https://tomopy.readthedocs.org)
 
+## SIRT-FILTER
+Python package to compute filters and use SIRT-FBP for tomographic reconstruction, as published in:
+
+* Pelt, D.M., & De Andrade, V. (2017). Improved tomographic reconstruction of large-scale real-world data by filter optimization. Advanced Structural and Chemical Imaging 2: 17. `[link] <http://rdcu.be/niW6>`_
+* Pelt, D. M., & Batenburg, K. J. (2015). Accurately approximating algebraic tomographic reconstruction by filtered backprojection. In Proceedings of The 13th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine (pp. 158-161). `[link] <http://oai.cwi.nl/oai/asset/23742/23742D.pdf>`_
+
+* [\[More Information\]](http://dmpelt.gitlab.io/sirtfilter/)
+
 ## PyMR-FBP
 PyMR-FBP is a Python implementation of the MR-FBP tomographic reconstruction method, published in:
 

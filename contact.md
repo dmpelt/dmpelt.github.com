@@ -9,8 +9,9 @@ weight: 4
 
     Name: 		Daniel M. Pelt
     Affiliation: 	Post-Doc
-            Lawrence Berkeley National Laboratory
-            1 Cyclotron Road
-            Berkeley, CA 94720
-    Email:		DMPelt@lbl.gov
+            Centrum Wiskunde & Informatica
+            Science Park 123
+            1098 XG, Amsterdam
+            The Netherlands
+    Email:		d.m.pelt@cwi.nl
 

@@ -11,8 +11,8 @@ group: navigation
 ## Chronological list of publications
 
 ## 2017
-* Parkinson, D. Y., Pelt, D. M., Perciano, T., Ushizima, D., Krishnan, H., Barnard, H. S., MacDowell, A. A., & Sethian, J. (2017). Machine learning for micro-tomography. In *Developments in X-Ray Tomography XI*, p. 103910J.
-* Perciano, T., Ushizima, D., Krishnan, H., Parkinson, D., Larson, N., Pelt, D. M., Bethel, W., Zok F., & Sethian, J. (2017). Insight into 3D micro-CT data: exploring segmentation algorithms through performance metrics. *Journal of Synchrotron Radiation, 24*(5).
+* Parkinson, D. Y., Pelt, D. M., Perciano, T., Ushizima, D., Krishnan, H., Barnard, H. S., MacDowell, A. A., & Sethian, J. (2017). Machine learning for micro-tomography. In *Developments in X-Ray Tomography XI*, p. 103910J. [\[link\]](http://dx.doi.org/10.1117/12.2274731)
+* Perciano, T., Ushizima, D., Krishnan, H., Parkinson, D., Larson, N., Pelt, D. M., Bethel, W., Zok F., & Sethian, J. (2017). Insight into 3D micro-CT data: exploring segmentation algorithms through performance metrics. *Journal of Synchrotron Radiation, 24*(5). [\[link\]](https://doi.org/10.1107/S1600577517010955)
 
 ### 2016
 * Pelt, D. M., & Andrade, V. (2016). Improved tomographic reconstruction of large-scale real-world data by filter optimization. *Advanced Structural and Chemical Imaging, 2*(1), 17. [\[link\]](https://ascimaging.springeropen.com/articles/10.1186/s40679-016-0033-y)
@@ -23,7 +23,7 @@ group: navigation
 * Pelt, D. M., & Bisseling, R. H. (2015). An exact algorithm for sparse matrix bipartitioning. *Journal of Parallel and Distributed Computing, 85*, pp. 79-90. [\[link\]](http://dx.doi.org/10.1016/j.jpdc.2015.06.005)
 * Bladt, E., Pelt, D. M., Bals, S., & Batenburg, K. J. (2015). Electron tomography based on highly limited data using a neural network reconstruction technique. *Ultramicroscopy, 158*, pp. 81-88. [\[link\]](http://dx.doi.org/10.1016/j.ultramic.2015.07.001)
 * Pelt, D. M., & Batenburg, K. J. (2015). Accurately approximating algebraic tomographic reconstruction by filtered backprojection. *Proceedings of the 2015 International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine*.
-* Janssens, E., Pelt, D. M., De Beenhouwer, J., Van Dael, M., Verboven, P., Nicolai, B., & Sijbers, J. (2015). Fast neural network based X-ray tomography of fruit on a conveyor belt. *Chemical Engineering Transactions, 44*, 181-186.
+* Janssens, E., Pelt, D. M., De Beenhouwer, J., Van Dael, M., Verboven, P., Nicolai, B., & Sijbers, J. (2015). Fast neural network based X-ray tomography of fruit on a conveyor belt. *Chemical Engineering Transactions, 44*, 181-186. [\[link\]](https://www.researchgate.net/profile/Jan_Sijbers/publication/284888775_Fast_neural_network_based_x-ray_tomography_of_fruit_on_a_conveyor_belt/links/566b51f308ae62b05f04ef8f.pdf)
 
 ### 2014
 * Pelt, D. M., & Batenburg, K. J. (2014). Improving Filtered Backprojection Reconstruction by Data-Dependent Filtering. *Image Processing, IEEE Transactions on, 23*(11), pp. 4750-4762. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862004&isnumber=6908104)

@@ -10,8 +10,7 @@ tagline: Dani&euml;l M. Pelt
 <table>
 <tr>
 <td>
-Dani&euml;l M. Pelt received the M.Sc. degree in mathematics from the University of Utrecht, Utrecht, The Netherlands in 2010, and
-the Ph.D. degree at Leiden University, Leiden, The Netherlands, in 2016. His Ph.D. research was focused on limited-data tomographic reconstruction algorithms. He is currently a post-doc at the Lawrence Berkeley National Laboratory.
+I received the M.Sc. degree in mathematics from the University of Utrecht in 2010, and the Ph.D. degree at Leiden University in 2016. My Ph.D. research, performed at CWI, was focused on limited-data tomographic reconstruction algorithms. After being a post-doc at the Lawrence Berkeley National Laboratory (2016 - 2017), focusing on developing machine learning algorithms for imaging problems, I started as a post-doc at the Computational Imaging group at CWI (2017 - ), developing algorithms for tomographic problems, including machine learning algorithms.
 </td>
 <td width="150">
 <img src="http://www.gravatar.com/avatar/f780cc0825e53c68092235e9664dab0d?s=150">
@@ -20,9 +19,9 @@ the Ph.D. degree at Leiden University, Leiden, The Netherlands, in 2016. His Ph.
 </table>
 
 ## Selected publications
-* Pelt, D. M., & Batenburg, K. J. (2014). Improving Filtered Backprojection Reconstruction by Data-Dependent Filtering. *Image Processing, IEEE Transactions on, 23*(11), pp. 4750-4762. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6862004&isnumber=6908104)
 * Pelt, D., & Batenburg, K. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *Image Processing, IEEE Transactions on, 22*(12), pp. 5238-5251. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6607157&isnumber=6609090)
-* Filion, L., Marechal, M., van Oorschot, B., Pelt, D., Smallenburg, F., & Dijkstra, M. (2009). Efficient method for predicting crystal structures at finite temperature: Variable box shape simulations. *Physical review letters, 103*(18), 188302. [\[link\]](http://link.aps.org/doi/10.1103/PhysRevLett.103.188302)
+* Pelt, D. M., G&uuml;rsoy, D., Palenstijn, W. J., Sijbers, J., De Carlo, F., & Batenburg, K. J. (2016). Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data. *Journal of synchrotron radiation, 23*(3), pp. 842-849. [\[link\]](https://doi.org/10.1107/S1600577516005658)
+* Pelt, D. M., & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. *Proceedings IEEE International Parallel & Distributed Processing Symposium 2014*, IEEE Press, pp. 529-539. [\[link\]](http://www.staff.science.uu.nl/~bisse101/Articles/mediumgrain14.pdf)
 
 ## Contact Information
 

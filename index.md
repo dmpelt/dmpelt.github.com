@@ -25,9 +25,13 @@ I received the M.Sc. degree in mathematics from the University of Utrecht in 201
 
 ## Contact Information
 
-	Name: 		Daniel M. Pelt
-	Affiliation: 	Post-Doc
-			Lawrence Berkeley National Laboratory
-			1 Cyclotron Road
-			Berkeley, CA 94720
-	Email:		DMPelt@lbl.gov
+		Name:
+			Daniel M. Pelt
+		Affiliation:
+			Post-Doc
+			Centrum Wiskunde & Informatica
+			Science Park 123
+			1098 XG, Amsterdam
+			The Netherlands
+		Email:
+			d.m.pelt@cwi.nl

@@ -10,7 +10,7 @@ group: navigation
 
 ## Chronological list of publications
 
-## 2017
+### 2017
 * Parkinson, D. Y., Pelt, D. M., Perciano, T., Ushizima, D., Krishnan, H., Barnard, H. S., MacDowell, A. A., & Sethian, J. (2017). Machine learning for micro-tomography. In *Developments in X-Ray Tomography XI*, p. 103910J. [\[link\]](http://dx.doi.org/10.1117/12.2274731)
 * Perciano, T., Ushizima, D., Krishnan, H., Parkinson, D., Larson, N., Pelt, D. M., Bethel, W., Zok F., & Sethian, J. (2017). Insight into 3D micro-CT data: exploring segmentation algorithms through performance metrics. *Journal of Synchrotron Radiation, 24*(5). [\[link\]](https://doi.org/10.1107/S1600577517010955)
 

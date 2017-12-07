@@ -11,10 +11,11 @@ group: navigation
 ## Chronological list of publications
 
 ### 2017
-* **Pelt, D. M.**, Parkinson, D. Y. (2017). Ring artifact reduction in synchrotron X-ray tomography through helical acquisition. *Measurement Science and Technology*.
-* De Carlo, F., G&uuml;rsoy, D., Ching, D. J.,  Batenburg, K. J., Ludwig W., Mancini, L., Marone, F., Mokso, R., **Pelt, D. M.**, Sijbers, J., & Rivers, M. (2017). TomoBank: A tomographic data repository for computational X-ray science. *Measurement Science and Technology*.
+* **Pelt, D. M.**, Parkinson, D. Y. (2017). Ring artifact reduction in synchrotron X-ray tomography through helical acquisition. *Measurement Science and Technology*. [\[link\]](https://doi.org/10.1088/1361-6501/aa9dd9)
+* De Carlo, F., G&uuml;rsoy, D., Ching, D. J.,  Batenburg, K. J., Ludwig W., Mancini, L., Marone, F., Mokso, R., **Pelt, D. M.**, Sijbers, J., & Rivers, M. (2017). TomoBank: A tomographic data repository for computational X-ray science. *Measurement Science and Technology*. [\[link\]](https://doi.org/10.1088/1361-6501/aa9c19)
 * Parkinson, D. Y., **Pelt, D. M.**, Perciano, T., Ushizima, D., Krishnan, H., Barnard, H. S., MacDowell, A. A., & Sethian, J. (2017). Machine learning for micro-tomography. In *Developments in X-Ray Tomography XI*, p. 103910J. [\[link\]](http://dx.doi.org/10.1117/12.2274731)
 * Perciano, T., Ushizima, D., Krishnan, H., Parkinson, D., Larson, N., **Pelt, D. M.**, Bethel, W., Zok F., & Sethian, J. (2017). Insight into 3D micro-CT data: exploring segmentation algorithms through performance metrics. *Journal of Synchrotron Radiation, 24*(5). [\[link\]](https://doi.org/10.1107/S1600577517010955)
+* Barnard, H. S., Parkinson, D. Y., Mandal, P., MacDowell, A. A., Peterson, J. C., Parks, H., **Pelt, D. M.**, Larson, N. M., Panerai, F., & Mansour, N. N. (2017). Synchrotron micro-tomography with in-situ environments at the advanced light source. In *Proceedings of the 3rd International Conference on Tomography of Materials and Structures*. [\[link\]](http://meetingorganizer.copernicus.org/ICTMS2017/ICTMS2017-80.pdf)
 
 ### 2016
 * **Pelt, D. M.**, & Andrade, V. (2016). Improved tomographic reconstruction of large-scale real-world data by filter optimization. *Advanced Structural and Chemical Imaging, 2*(1), 17. [\[link\]](https://ascimaging.springeropen.com/articles/10.1186/s40679-016-0033-y)

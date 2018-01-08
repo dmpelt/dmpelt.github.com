@@ -19,6 +19,7 @@ I received the M.Sc. degree in mathematics from the University of Utrecht in 201
 </table>
 
 ## Selected publications
+* **Pelt, D. M.**, & Sethian, J. A. (2017). A mixed-scale dense convolutional neural network for image analysis. *Proceedings of the National Academy of Sciences*. [\[link\]](https://doi.org/10.1073/pnas.1715832114)
 * Pelt, D., & Batenburg, K. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *Image Processing, IEEE Transactions on, 22*(12), pp. 5238-5251. [\[link\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6607157&isnumber=6609090)
 * Pelt, D. M., G&uuml;rsoy, D., Palenstijn, W. J., Sijbers, J., De Carlo, F., & Batenburg, K. J. (2016). Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data. *Journal of synchrotron radiation, 23*(3), pp. 842-849. [\[link\]](https://doi.org/10.1107/S1600577516005658)
 * Pelt, D. M., & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. *Proceedings IEEE International Parallel & Distributed Processing Symposium 2014*, IEEE Press, pp. 529-539. [\[link\]](http://www.staff.science.uu.nl/~bisse101/Articles/mediumgrain14.pdf)

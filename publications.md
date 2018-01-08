@@ -11,6 +11,7 @@ group: navigation
 ## Chronological list of publications
 
 ### 2017
+* **Pelt, D. M.**, & Sethian, J. A. (2017). A mixed-scale dense convolutional neural network for image analysis. *Proceedings of the National Academy of Sciences*. [\[link\]](https://doi.org/10.1073/pnas.1715832114)
 * **Pelt, D. M.**, Parkinson, D. Y. (2017). Ring artifact reduction in synchrotron X-ray tomography through helical acquisition. *Measurement Science and Technology*. [\[link\]](https://doi.org/10.1088/1361-6501/aa9dd9)
 * De Carlo, F., G&uuml;rsoy, D., Ching, D. J.,  Batenburg, K. J., Ludwig W., Mancini, L., Marone, F., Mokso, R., **Pelt, D. M.**, Sijbers, J., & Rivers, M. (2017). TomoBank: A tomographic data repository for computational X-ray science. *Measurement Science and Technology*. [\[link\]](https://doi.org/10.1088/1361-6501/aa9c19)
 * Parkinson, D. Y., **Pelt, D. M.**, Perciano, T., Ushizima, D., Krishnan, H., Barnard, H. S., MacDowell, A. A., & Sethian, J. (2017). Machine learning for micro-tomography. In *Developments in X-Ray Tomography XI*, p. 103910J. [\[link\]](http://dx.doi.org/10.1117/12.2274731)

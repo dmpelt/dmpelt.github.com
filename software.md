@@ -1,8 +1,11 @@
 ---
-layout: page
-title: Software
-group: navigation
+layout: main
+title: Daniël M. Pelt's software contributions
+permalink: /software/
 ---
+
+# Software
+
 ## The ASTRA Toolbox
 The ASTRA Toolbox is a MATLAB and Python toolbox of high-performance GPU primitives for 2D and 3D tomography.
 My contribution to ASTRA is mostly the addition of a Python interface to the toolbox and the addition of a plugin system for new reconstruction algorithms.

@@ -1,20 +1,18 @@
 ---
-layout: page
-title: Contact
-group: navigation
-weight: 4
+layout: main
+title: Daniël M. Pelt's contact information
+permalink: /contact/
 ---
 
-## Contact Information
+# Contact information
 
-    Name:
-      Daniel M. Pelt
-    Affiliation:
-      Post-Doc
-      Centrum Wiskunde & Informatica
-      Science Park 123
-      1098 XG, Amsterdam
-      The Netherlands
-    Email:
-      d.m.pelt@cwi.nl
-
+		Name:
+			Daniël M. Pelt
+		Affiliation:
+			Post-Doc
+			Centrum Wiskunde & Informatica
+			Science Park 123
+			1098 XG, Amsterdam
+			The Netherlands
+		Email:
+			d.m.pelt@cwi.nl

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+body {
+	font-family: Montserrat, Avenir,Verdana,sans-serif;
+	position: relative;
+	left: 25%;
+	width: 50%;
+}
+
+nav > table {
+	border-spacing: 1em;
+}
+
+nav {
+	font-size: larger;
+}
+
+
+a:link {
+	color: #555;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #555;
+	text-decoration: none;
+}
+a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #000;
+	text-decoration: underline;
+}
+
+#lastedit {
+	font-size: smaller;
+	text-align: right;
+}
+
+html {
+    overflow-y: scroll; 
+}

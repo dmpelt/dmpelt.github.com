@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} {% endif %}</title>
+  <link href="{{ site.baseurl }}/media/main-style.css" type="text/css" rel="stylesheet">
+  </head>
+<body>
+
+
+<nav>
+    <table>
+    {% for entry in site.data.navigation %}
+        <td><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></td>
+    {% endfor %}
+    </table>
+</nav>
+  <div id="main">
+    <div id="content">
+    {{ content }}
+    </div>
+  </div>
+  <p id="lastedit"></p>
+ <script>
+   let url = 'https://api.github.com/repos/dmpelt/newwebsite/branches/master';
+  fetch(url)
+.then(res => res.json())
+.then((out) => {
+  document.getElementById("lastedit").innerHTML = "<br>This website was last updated on " + out.commit.commit.committer.date.slice(0,10) + ".";
+})
+.catch(err => { throw err });
+  </script>
+</body>
+</html>

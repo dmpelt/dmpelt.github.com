@@ -46,7 +46,7 @@ __Ph. D.__
 - Advisor: prof. dr. K. J. Batenburg
 
 `2010`
-__Master Scientific Compution (cum laude)__
+__Master Scientific Computing (cum laude)__
 
 - Utrecht University
 - Utrecht, The Netherlands

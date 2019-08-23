@@ -180,6 +180,9 @@ Lombard IL, USA, ICXOM 25.
 
 `12/2012` Paris, France, Workshop on X-ray tomography reconstruction.
 
+
+<div class="newpage"> </div>
+
 ## Publication list
 
 `2019`

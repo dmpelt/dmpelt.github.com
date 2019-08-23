@@ -198,5 +198,9 @@ strong {
 	visibility: hidden;
 }
 
+.newpage {
+	break-after: page;
+}
+
 
 

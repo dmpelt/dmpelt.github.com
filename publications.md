@@ -12,6 +12,8 @@ permalink: /publications/
 
 ### 2019
 
+Minnema, J. et al. (2019). Segmentation of dental cone‐beam CT scans affected by metal artifacts using a mixed‐scale dense convolutional neural network. *Medical Physics*.
+
 Hendriksen, A. A., __Pelt, D. M.__, Palenstijn, W. J., Coban, S. B., & Batenburg, K. J. (2019). On-the-Fly Machine Learning for Improving Image Resolution in Tomography. *Applied Sciences, 9*(12), 2445.
 
 ### 2018

@@ -164,16 +164,16 @@ Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Tr
 `2019`
 The 2019/2020 TomoChallenge.
 
-CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
+The 2019 CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
 
 `2018`
-CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
+The 2018 CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
 
 `2017`
-CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
+The 2017 CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
 
 `2016`
-CAMERA Workshop: Algorithms for Tomographic Reconstruction: State-of-the-Art and Future Goals
+The 2016 CAMERA Workshop: Algorithms for Tomographic Reconstruction: State-of-the-Art and Future Goals.
 
 ### Working visits
 

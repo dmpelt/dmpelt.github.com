@@ -95,6 +95,86 @@ Short Term Scientific Mission (PI), EU COST Action MP-1207, 1100 euro
 
 Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Transactions on Compuational Imaging, Journal of Synchrotron Radiation, Measurement Science and Technology, ...
 
+### Talks
+
+`01/2020` Kanazawa, Japan, The 1st International Conference on Big Data and Machine Learning in Microscopy (invited).
+
+`10/2019` Zeist, The Netherlands, The 44th Dutch-Flemish Scientific Computing Society Woudschoten Conference (invited).
+
+`08/2019` Lombard IL, USA, The 25th International Congress on X-ray Optics and Microanalysis (invited).
+
+`06/2019` Amsterdam, The Netherlands, Code Sprint: Deep Learning for High Resolution 3D Tomographic Reconstruction.
+
+`05/2019` Milan, Italy, Meeting on Tomography and Applications (invited).
+
+`04/2019` Lund, Sweden, Inverse problems in X-ray phase retrieval and tomography (invited).
+
+`11/2018` Berkeley CA, USA, CAMERA Workshop Algorithms and Software for Tomographic Reconstruction for Beamlines.
+
+`04/2018` Groningen, The Netherlands, Imaging Informatics Colloquium.
+
+`01/2018` Villigen, Switzerland, Meeting at Swiss Light Source, Paul Scherrer Institute.
+
+`11/2017` Berkeley CA, USA, CAMERA Workshop Algorithms and Software for Tomographic Reconstruction for Beamlines.
+
+`11/2016` Berkeley CA, USA, CAMERA Workshop: Algorithms for Tomographic Reconstruction: State-of-the-Art and Future Goals.
+
+`10/2016` Berkeley CA, USA, Advanced Light Source User Meeting 2016.
+
+`05/2016` Argonne IL, USA, 2016 APS/CNM Users Meeting 2016 (invited).
+
+`02/2016` Berkeley CA, USA, Advanced Light Source Tomography Beamline Seminar.
+
+`11/2015` Antwerp, Belgium, International Workshop on Industrial Tomography 2015 (invited).
+
+`09/2015` London, UK, Focused Mini-Workshop on Differential Phase Contrast Tomography (invited).
+
+`06/2015` Argonne IL, USA, Laboratory for Advanced Numerical Simulations(LANS) Informal Seminar, Mathematics & Computer Science (MCS) Division, Argonne National Laboratory.
+
+`06/2015` Argonne IL, USA, Coffee seminar of the Imaging and Microscopy Groups, Advanced Photon Source, Argonne National Laboratory.
+
+`06/2015` Newport RI, USA, the 13th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine.
+
+`05/2015` Grenoble, France, Workshop on Experimental and Computational Tomography (invited).
+
+`04/2015` Milan, Italy, Meeting on Tomography and Applications (invited).
+
+`12/2014` Trieste, Italy, Advances in X-ray Imaging workshop (invited).
+
+`11/2014` Antwerp, Belgium, Meeting at Electron microscopy for materials science (EMAT), University of Antwerp.
+
+`05/2014` Phoenix AZ, USA, 28th IEEE International Parallel & Distributed Processing Symposium.
+
+`05/2014` Hong Kong, China, SIAM Conference on Imaging Science.
+
+`03/2014` Villigen, Switzerland, Meeting at Swiss Light Source, Paul Scherrer Institute.
+
+`02/2014` Antwerp, Belgium, Meeting at iMinds - Vision Lab, University of Antwerp.
+
+`12/2013` Antwerp, Belgium, Meeting at Electron microscopy for materials science (EMAT), University of Antwerp.
+
+`07/2013` Ghent, Belgium, 1st International Conference on Tomography of Materials and Structures.
+
+`05/2013` Grenoble, France, ESRF SciSoft coffee meeting.
+
+`12/2012` Paris, France, Workshop on X-ray tomography reconstruction.
+
+### (Co-)Organizer
+
+`2019`
+The 2019/2020 TomoChallenge.
+
+CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
+
+`2018`
+CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
+
+`2017`
+CAMERA Workshop: Algorithms and Software for Tomographic Reconstruction for Beamlines.
+
+`2016`
+CAMERA Workshop: Algorithms for Tomographic Reconstruction: State-of-the-Art and Future Goals
+
 ### Working visits
 
 `01/2018`
@@ -118,67 +198,6 @@ Teacher at the ASTRA toolbox session during "Workshop on Experimental and Comput
 Teacher at the "Training school on using the ASTRA toolbox for X-ray tomography" (March 2015, Antwerp, Belgium).
 
 Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, Antwerp, Belgium).
-
-### Talks
-
-`08/2019`
-Lombard IL, USA, ICXOM 25.
-
-`06/2019` Amsterdam, The Netherlands, Code Sprint: Deep Learning for High Resolution 3D Tomographic Reconstruction.
-
-`05/2019` Milan, Italy, Meeting on Tomography and Applications.
-
-`04/2019` Lund, Sweden, Inverse problems in X-ray phase retrieval and tomography.
-
-`11/2018` Berkeley CA, USA, CAMERA Workshop Algorithms and Software for Tomographic Reconstruction for Beamlines.
-
-`04/2018` Groningen, The Netherlands, Imaging Informatics Colloquium.
-
-`01/2018` Villigen, Switzerland, Meeting at Swiss Light Source, Paul Scherrer Institute.
-
-`11/2017` Berkeley CA, USA, CAMERA Workshop Algorithms and Software for Tomographic Reconstruction for Beamlines.
-
-`11/2016` Berkeley CA, USA, CAMERA Workshop: Algorithms for Tomographic Reconstruction: State-of-the-Art and Future Goals.
-
-`10/2016` Berkeley CA, USA, Advanced Light Source User Meeting 2016.
-
-`05/2016` Argonne IL, USA, 2016 APS/CNM Users Meeting 2016.
-
-`02/2016` Berkeley CA, USA, Advanced Light Source Tomography Beamline Seminar.
-
-`11/2015` Antwerp, Belgium, International Workshop on Industrial Tomography 2015.
-
-`09/2015` London, UK, Focused Mini-Workshop on Differential Phase Contrast Tomography.
-
-`06/2015` Argonne IL, USA, Laboratory for Advanced Numerical Simulations(LANS) Informal Seminar, Mathematics & Computer Science (MCS) Division, Argonne National Laboratory.
-
-`06/2015` Argonne IL, USA, Coffee seminar of the Imaging and Microscopy Groups, Advanced Photon Source, Argonne National Laboratory.
-
-`06/2015` Newport RI, USA, the 13th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine.
-
-`05/2015` Grenoble, France, Workshop on Experimental and Computational Tomography.
-
-`04/2015` Milan, Italy, Meeting on Tomography and Applications.
-
-`12/2014` Trieste, Italy, Advances in X-ray Imaging workshop.
-
-`11/2014` Antwerp, Belgium, Meeting at Electron microscopy for materials science (EMAT), University of Antwerp.
-
-`05/2014` Phoenix AZ, USA, 28th IEEE International Parallel & Distributed Processing Symposium.
-
-`05/2014` Hong Kong, China, SIAM Conference on Imaging Science.
-
-`03/2014` Villigen, Switzerland, Meeting at Swiss Light Source, Paul Scherrer Institute.
-
-`02/2014` Antwerp, Belgium, Meeting at iMinds - Vision Lab, University of Antwerp.
-
-`12/2013` Antwerp, Belgium, Meeting at Electron microscopy for materials science (EMAT), University of Antwerp.
-
-`07/2013` Ghent, Belgium, 1st International Conference on Tomography of Materials and Structures.
-
-`05/2013` Grenoble, France, ESRF SciSoft coffee meeting.
-
-`12/2012` Paris, France, Workshop on X-ray tomography reconstruction.
 
 
 <div class="newpage"> </div>

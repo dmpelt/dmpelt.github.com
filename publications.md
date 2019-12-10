@@ -12,6 +12,8 @@ permalink: /publications/
 
 ### 2019
 
+Buurlage, J. W., Marone, F., __Pelt, D. M.__, Palenstijn, W. J., Stampanoni, M., Batenburg, K. J., & Schlepütz, C. M. (2019). Real-time reconstruction and visualisation towards dynamic feedback control during time-resolved tomography experiments at TOMCAT. *Scientific Reports, 9*(1), 1-11.
+
 Minnema, J. et al. (2019). Segmentation of dental cone‐beam CT scans affected by metal artifacts using a mixed‐scale dense convolutional neural network. *Medical Physics*.
 
 Hendriksen, A. A., __Pelt, D. M.__, Palenstijn, W. J., Coban, S. B., & Batenburg, K. J. (2019). On-the-Fly Machine Learning for Improving Image Resolution in Tomography. *Applied Sciences, 9*(12), 2445.

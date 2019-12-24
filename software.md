@@ -6,6 +6,15 @@ permalink: /software/
 
 # Software
 
+## MSDNet
+Python implementation of the Mixed-Scale Dense Convolutional Neural Network, as published in:
+
+* Pelt, D. M., & Sethian, J. A. (2018). A mixed-scale dense convolutional neural network for image analysis. *Proceedings of the National Academy of Sciences, 115*(2), 254-259.
+* Pelt, D. M., Batenburg, K. J., & Sethian, J. A. (2018). Improving tomographic reconstruction from limited data using mixed-scale dense convolutional neural networks. *Journal of Imaging, 4*(11), 128.
+
+* [\[More Information\]](https://github.com/dmpelt/msdnet)
+
+
 ## The ASTRA Toolbox
 The ASTRA Toolbox is a MATLAB and Python toolbox of high-performance GPU primitives for 2D and 3D tomography.
 My contribution to ASTRA is mostly the addition of a Python interface to the toolbox and the addition of a plugin system for new reconstruction algorithms.

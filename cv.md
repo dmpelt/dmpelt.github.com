@@ -204,6 +204,11 @@ Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, A
 
 ## Publication list
 
+`2020`
+Parkinson, D. Y. et al. (2020). Tomographic Reconstruction for Synchrotron Tomography. In *Handbook on Big Data and Machine Learning in the Physical Sciences*, 65-82.
+
+Chang, H. et al. (2020). Building Mathematics, Algorithms, and Software for Experimental Facilities. In *Handbook on Big Data and Machine Learning in the Physical Sciences*, 189-240.
+
 `2019`
 Buurlage, J. W., Marone, F., __Pelt, D. M.__, Palenstijn, W. J., Stampanoni, M., Batenburg, K. J., & Schlepütz, C. M. (2019). Real-time reconstruction and visualisation towards dynamic feedback control during time-resolved tomography experiments at TOMCAT. *Scientific Reports, 9*(1), 1-11.
 

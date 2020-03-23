@@ -81,15 +81,22 @@ __Pelt, D. M.__, & Batenburg, K. J. (2013). Fast tomographic reconstruction from
 
 ### Scholarships/prizes
 
-EU ATTRACT 2019 (co-I), 100k euro
+`2019`
+NWO Smart solutions for horti- and agriculture 2019 (consortium partner, 800k euro): Universal Three-dimensiOnal Passport for process Individualization in Agriculture
 
-NWO Veni Grant 2018 (PI), 250k euro
+EU ATTRACT (co-I, 100k euro): Combining cycloidal computed tomography with machine learning
 
-IOP Outstanding Reviewer Award 2017
+`2018`
+NWO Veni Grant (PI, 250k euro): Machine learning for large 3D tomographic images
 
-Research Aide Appointment (PI), Argonne National Laboratory, 4800 dollar
+`2017`
+IOP Outstanding Reviewer Award
 
-Short Term Scientific Mission (PI), EU COST Action MP-1207, 1100 euro
+`2015`
+Research Aide Appointment (PI, 4800 dollar), Argonne National Laboratory 
+
+`2014`
+Short Term Scientific Mission (PI, 1100 euro), EU COST Action MP-1207
 
 ### Ad hoc reviewer
 

@@ -212,6 +212,9 @@ Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, A
 ## Publication list
 
 `2020`
+
+Vanrompay, H. et. al. (2020). Real‐Time Reconstruction of Arbitrary Slices for Quantitative and In Situ 3D Characterization of Nanoparticles. *Particle & Particle Systems Characterization*, 2000073.
+
 Parkinson, D. Y. et al. (2020). Tomographic Reconstruction for Synchrotron Tomography. In *Handbook on Big Data and Machine Learning in the Physical Sciences*, 65-82.
 
 Chang, H. et al. (2020). Building Mathematics, Algorithms, and Software for Experimental Facilities. In *Handbook on Big Data and Machine Learning in the Physical Sciences*, 189-240.

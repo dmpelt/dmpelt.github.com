@@ -213,6 +213,8 @@ Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, A
 
 `2020`
 
+Flenner, S. et. al. (2020). Pushing the temporal resolution in absorption and Zernike phase contrast nanotomography: enabling fast in situ experiments. *Journal of Synchrotron Radiation, 27*(5).
+
 Vanrompay, H. et. al. (2020). Real‐Time Reconstruction of Arbitrary Slices for Quantitative and In Situ 3D Characterization of Nanoparticles. *Particle & Particle Systems Characterization*, 2000073.
 
 Parkinson, D. Y. et al. (2020). Tomographic Reconstruction for Synchrotron Tomography. In *Handbook on Big Data and Machine Learning in the Physical Sciences*, 65-82.

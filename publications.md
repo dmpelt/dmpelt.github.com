@@ -12,6 +12,8 @@ permalink: /publications/
 
 ### 2020
 
+Hendriksen, A. A., __Pelt, D. M.__, & Batenburg, K. J. (2020). Noise2Inverse: Self-Supervised Deep Convolutional Denoising for Tomography. *IEEE Transactions on Computational Imaging, 6*, 1320-1335.
+
 Flenner, S. et. al. (2020). Pushing the temporal resolution in absorption and Zernike phase contrast nanotomography: enabling fast in situ experiments. *Journal of Synchrotron Radiation, 27*(5).
 
 Vanrompay, H. et. al. (2020). Real‐Time Reconstruction of Arbitrary Slices for Quantitative and In Situ 3D Characterization of Nanoparticles. *Particle & Particle Systems Characterization*, 2000073.

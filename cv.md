@@ -213,6 +213,8 @@ Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, A
 
 `2020`
 
+Schoonhoven, R., Buurlage, J. W., __Pelt, D. M.__, & Batenburg, K. J. (2020). Real-time segmentation for tomographic imaging. In *2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP)*, 1-6.
+
 Hendriksen, A. A., __Pelt, D. M.__, & Batenburg, K. J. (2020). Noise2Inverse: Self-Supervised Deep Convolutional Denoising for Tomography. *IEEE Transactions on Computational Imaging, 6*, 1320-1335.
 
 Flenner, S. et. al. (2020). Pushing the temporal resolution in absorption and Zernike phase contrast nanotomography: enabling fast in situ experiments. *Journal of Synchrotron Radiation, 27*(5).

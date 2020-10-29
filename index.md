@@ -32,10 +32,8 @@ __Pelt, D. M.__, & Batenburg, K. J. (2013). Fast tomographic reconstruction from
 		Name:
 			Daniël M. Pelt
 		Affiliation:
-			Post-Doc
-			Centrum Wiskunde & Informatica
-			Science Park 123
-			1098 XG, Amsterdam
-			The Netherlands
+			Assistant Professor
+			Leiden Institute of Advanced Computer Science (LIACS)
+			Leiden University
 		Email:
-			d.m.pelt@cwi.nl
+			d.m.pelt@liacs.leidenuniv.nl

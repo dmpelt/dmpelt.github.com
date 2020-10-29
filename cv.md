@@ -6,12 +6,18 @@ permalink: /cv/
 # Daniël M. Pelt
 
 <div id="webaddress">
-<a href="mailto:d.m.pelt@cwi.nl">d.m.pelt@cwi.nl</a>
+<a href="mailto:d.m.pelt@liacs.leidenuniv.nl">d.m.pelt@liacs.leidenuniv.nl</a>
 </div>
 
 ## Employment
 
-`2017 - now`
+`2020 - now`
+__Assistant Professor__
+
+- Leiden University
+- Leiden, The Netherlands
+
+`2017 - 2020`
 __Postdoctoral Researcher__
 
 - Centrum Wiskunde & Informatica

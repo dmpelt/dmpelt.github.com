@@ -104,6 +104,10 @@ Research Aide Appointment (PI, 4800 dollar), Argonne National Laboratory
 `2014`
 Short Term Scientific Mission (PI, 1100 euro), EU COST Action MP-1207
 
+### Membership
+
+`2020 - now` Topic Editor, Jounal of Imaging 
+
 ### Ad hoc reviewer
 
 Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Transactions on Compuational Imaging, Journal of Synchrotron Radiation, Measurement Science and Technology, ...

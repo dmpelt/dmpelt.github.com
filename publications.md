@@ -14,6 +14,8 @@ permalink: /publications/
 
 __Pelt, D. M.__ (2020). Deep Learning: Tackling the challenges of bioimage analysis. *Elife, 9*, e64384.
 
+Lagerwerf, M. J., __Pelt, D. M.__, Palenstijn, W. J., & Batenburg, K. J. (2020). A Computationally Efficient Reconstruction Algorithm for Circular Cone-Beam Computed Tomography Using Shallow Neural Networks. *Journal of Imaging, 6*(12), 135.
+
 Zeegers, M. T., __Pelt, D. M.__, van Leeuwen, T., van Liere, R., & Batenburg, K. J. (2020). Task-Driven Learned Hyperspectral Data Reduction Using End-to-End Supervised Deep Learning. *Journal of Imaging, 6*(12), 132.
 
 __Pelt, D.__, Maughan-Jones, C., Morgo, R. I., Olivo, A., & Hagen, D. (2020). Rapid and flexible high-resolution scanning enabled by cycloidal computed tomography and convolutional neural network (CNN) based data recovery. In *6th International Conference on Image Formation in X-Ray Computed Tomography*.

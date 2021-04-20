@@ -114,6 +114,8 @@ Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Tr
 
 ### Talks
 
+`04/2021` Berkeley CA, USA, Workshop on Autonomous Discovery in Science and Engineering (invited).
+
 `01/2020` Kanazawa, Japan, The 1st International Conference on Big Data and Machine Learning in Microscopy (invited).
 
 `10/2019` Zeist, The Netherlands, The 44th Dutch-Flemish Scientific Computing Society Woudschoten Conference (invited).

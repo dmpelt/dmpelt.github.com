@@ -10,7 +10,7 @@ title: Daniël M. Pelt's homepage
 <img align="right" src="https://www.gravatar.com/avatar/f780cc0825e53c68092235e9664dab0d?s=150">
 
 
-I received the M.Sc. degree in mathematics from the University of Utrecht in 2010, and the Ph.D. degree at Leiden University in 2016. My Ph.D. research, performed at CWI, was focused on limited-data tomographic reconstruction algorithms. After being a post-doc at the Lawrence Berkeley National Laboratory (2016 - 2017), focusing on developing machine learning algorithms for imaging problems, I started as a post-doc at the Computational Imaging group at CWI (2017 - ), developing algorithms for tomographic problems, including machine learning algorithms. 
+I received the M.Sc. degree in mathematics from the University of Utrecht in 2010, and the Ph.D. degree at Leiden University in 2016. My Ph.D. research, performed at CWI, was focused on limited-data tomographic reconstruction algorithms. After being a post-doc at the Lawrence Berkeley National Laboratory (2016 - 2017), focusing on developing machine learning algorithms for imaging problems, I started as a post-doc at the Computational Imaging group at CWI (2017 - 2020), developing algorithms for tomographic problems, including machine learning algorithms. In 2020, I started as an Assistant Professor at the Leiden Institute of Advanced Computer Science (LIACS) of Leiden University.
 
 
 ## Selected publications

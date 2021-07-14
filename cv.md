@@ -225,6 +225,13 @@ Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, A
 
 ## Publication list
 
+`2021`
+
+Skorikov, A., Heyvaert, W., Albecht, W., __Pelt, D. M.__, & Bals, S. (2021). Deep learning-based denoising for improved dose efficiency in EDX tomography of nanoparticles. *Nanoscale*.
+
+Hendriksen, A. A., Bührer, M., Leone, L., Merlini, M., Vigano, N., et al. (2021). Deep denoising for multi-dimensional synchrotron X-ray tomography without high-quality reference data. *Scientific Reports, 11*(1), 11895.
+
+
 `2020`
 
 

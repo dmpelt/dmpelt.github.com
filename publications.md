@@ -10,6 +10,13 @@ permalink: /publications/
 
 [ResearchGate](https://www.researchgate.net/profile/Daniel_Pelt)
 
+### 2021
+
+Skorikov, A., Heyvaert, W., Albecht, W., __Pelt, D. M.__, & Bals, S. (2021). Deep learning-based denoising for improved dose efficiency in EDX tomography of nanoparticles. *Nanoscale*.
+
+Hendriksen, A. A., Bührer, M., Leone, L., Merlini, M., Vigano, N., et al. (2021). Deep denoising for multi-dimensional synchrotron X-ray tomography without high-quality reference data. *Scientific Reports, 11*(1), 11895.
+
+
 ### 2020
 
 __Pelt, D. M.__ (2020). Deep Learning: Tackling the challenges of bioimage analysis. *Elife, 9*, e64384.

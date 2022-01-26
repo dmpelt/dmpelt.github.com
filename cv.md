@@ -68,21 +68,7 @@ __Pre-university secondary education__
 
 - Christelijk Gymnasium Utrecht
 - Utrecht, The Netherlands
-
-## Selected publications
-
-__Pelt, D. M.__, & Sethian, J. A. (2018). A mixed-scale dense convolutional neural network for image analysis. *Proceedings of the National Academy of Sciences, 115*(2), 254-259.
-
-__Pelt, D. M.__, Andrade, V. (2017). Improved tomographic reconstruction of large-scale real-world data by filter optimization. *Advanced Structural and Chemical Imaging, 2*(1), 17.
-
-__Pelt, D. M.__, Gürsoy, D., Palenstijn, W. J., Sijbers, J., De Carlo, F., & Batenburg, K. J. (2016). Integration of TomoPy and the ASTRA toolbox for advanced processing and reconstruction of tomographic synchrotron data. *Journal of synchrotron radiation, 23*(3), 842-849.
-      
-Bladt, E., __Pelt, D. M.__, Bals, S., & Batenburg, K. J. (2015). Electron tomography based on highly limited data using a neural network reconstruction technique. *Ultramicroscopy, 158*, 81-88.
-
-__Pelt, D. M.__, & Bisseling, R. H. (2014). A medium-grain method for fast 2D bipartitioning of sparse matrices. In *Parallel and Distributed Processing Symposium, 2014 IEEE 28th International* (pp. 529-539).
-
-__Pelt, D. M.__, & Batenburg, K. J. (2013). Fast tomographic reconstruction from limited data using artificial neural networks. *IEEE Transactions on Image Processing, 22*(12), 5238--5251.
-      
+   
 ## Academic activities
 
 ### Scholarships/prizes
@@ -113,6 +99,10 @@ Short Term Scientific Mission (PI, 1100 euro), EU COST Action MP-1207
 Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Transactions on Compuational Imaging, Journal of Synchrotron Radiation, Measurement Science and Technology, ...
 
 ### Talks
+
+`01/2022` Online, Electronic Imaging Symposium 2022 (invited).
+
+`12/2021` Tampere, Finland, Inverse Days 2021 (invited).
 
 `05/2021` Milan, Italy, Meeting on Tomography and Applications (panel speaker).
 
@@ -211,6 +201,10 @@ Swiss Light Source, Paul Sherrer Institute, Villigen, Switzerland. Two weeks.
 European Synchrotron Radiation Facility, Grenoble, France. Two weeks.
 
 ### Teaching
+
+Lecturer for the 2022 Computational Imaging and Tomography course at Leiden University (Master).
+
+Lecturer for the 2022 Introduction to Reinforcement Learning course at Leiden University (Bachelor).
 
 Guest lecturer for the 2015 Parallel Algorithms course, taught by prof. dr. Rob H. Bisseling at Utrecht University.
 

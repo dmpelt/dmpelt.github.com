@@ -225,7 +225,20 @@ Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, A
 
 ## Publication list
 
+`2022`
+
+__Pelt, D. M.__, Roche i Morgó, O., Maughan Jones, C., Olivo, A., & Hagen, C. K. (2022). Cycloidal CT with CNN-based sinogram completion and in-scan generation of training data. *Scientific Reports, 12*(1), 1-13.
+
+__Pelt, D. M.__, Hendriksen, A. A., & Batenburg, K. J. (2022). Foam-like phantoms for comparing tomography algorithms. *Journal of Synchrotron Radiation, 29*(1).
+
 `2021`
+
+Hendriksen, A. A. et. al. (2021). Tomosipo: fast, flexible, and convenient 3D tomography for complex scanning geometries in Python. *Optics Express, 29*(24), 40494-40513.
+
+Ganguly, P. S., __Pelt, D. M.__, Gürsoy, D., De Carlo, F., & Batenburg, K. J. (2021). Improving reproducibility in synchrotron tomography using implementation-adapted filters. *Journal of Synchrotron Radiation 28*(5), 1583-1597	
+
+Roche i Morgó, O. et. al. (2021). Exploring the potential of cycloidal computed tomography for advancing intraoperative specimen imaging. *Developments in X-Ray Tomography XIII. Vol. 11840*. International Society for Optics and Photonics, 2021.
+
 
 Skorikov, A., Heyvaert, W., Albecht, W., __Pelt, D. M.__, & Bals, S. (2021). Deep learning-based denoising for improved dose efficiency in EDX tomography of nanoparticles. *Nanoscale*.
 

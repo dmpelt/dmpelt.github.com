@@ -12,6 +12,18 @@ permalink: /publications/
 
 ### 2022
 
+Sieverts, M., Obata, Y., Rosenberg, J. L., Woolley, W., Parkinson, D. Y., Barnard, H. S., ... & Acevedo, C. (2022). Unraveling the effect of collagen damage on bone fracture using in situ synchrotron microtomography with deep learning. *Communications Materials, 3*(1), 1-13.
+
+Segev-Zarko, L. A., Dahlberg, P. D., Sun, S. Y., __Pelt, D. M.__, Kim, C. Y., Egan, E. S., ... & Boothroyd, J. C. (2022). Cryo-electron tomography with mixed-scale dense neural networks reveals key steps in deployment of Toxoplasma invasion machinery. *PNAS nexus, 1*(4), pgac183.
+
+Shiraz, A., Egawa, N., __Pelt, D. M.__, Crawford, R., Nicholas, A. K., Romashova, V., ... & Doorbar, J. (2022). Cervical cell lift: A novel triage method for the spatial mapping and grading of precancerous cervical lesions. *EBioMedicine, 82*, 104157.
+
+Kim, J., __Pelt, D. M.__, Kagias, M., Stampanoni, M., Batenburg, K. J., & Marone, F. (2022). Tomographic reconstruction of the small-angle x-ray scattering tensor with filtered back projection. *Physical Review Applied, 18*(1), 014043.
+
+Zeegers, M. T., van Leeuwen, T., __Pelt, D. M.__, Coban, S. B., van Liere, R., Batenburg, K.J. (2022). A tomographic workflow to enable deep learning for X-ray based foreign object detection. *Expert Systems with Applications, 206*, 117768.
+
+Vădineanu, Ș., __Pelt, D. M.__, Dzyubachyk, O., & Batenburg, J. (2022). An Analysis of the Impact of Annotation Errors on the Accuracy of Deep Learning for Cell Segmentation. In Medical Imaging with Deep Learning 2022.
+
 __Pelt, D. M.__, Roche i Morgó, O., Maughan Jones, C., Olivo, A., & Hagen, C. K. (2022). Cycloidal CT with CNN-based sinogram completion and in-scan generation of training data. *Scientific Reports, 12*(1), 1-13.
 
 __Pelt, D. M.__, Hendriksen, A. A., & Batenburg, K. J. (2022). Foam-like phantoms for comparing tomography algorithms. *Journal of Synchrotron Radiation, 29*(1).

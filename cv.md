@@ -96,7 +96,7 @@ Short Term Scientific Mission (PI, 1100 euro), EU COST Action MP-1207
 
 ### Ad hoc reviewer
 
-Nature Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Transactions on Compuational Imaging, Journal of Synchrotron Radiation, Measurement Science and Technology, ...
+Scientific Reports, eLife, IEEE Transactions on Image Processing, IEEE Transactions on Compuational Imaging, Journal of Synchrotron Radiation, Measurement Science and Technology, ...
 
 ### Talks
 

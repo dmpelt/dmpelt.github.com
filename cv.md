@@ -221,7 +221,9 @@ Teacher at the "Unleashing the ASTRA Tomography Toolbox" workshop (April 2014, A
 
 `2022`
 
-Sieverts, M., Obata, Y., Rosenberg, J. L., Woolley, W., Parkinson, D. Y., Barnard, H. S., ... & Acevedo, C. (2022). Unraveling the effect of collagen damage on bone fracture using in situ synchrotron microtomography with deep learning. *Communications Materials, 3*(1), 1-13.
+Ouyang, R., Costa, A. R., Cassidy, C. K., ... & Briegel, A. (2022). High-resolution reconstruction of a Jumbo-bacteriophage infecting capsulated bacteria using hyperbranched tail fibers. *Nature Communications, 13*, 7241.
+
+Sieverts, M., Obata, Y., Rosenberg, J. L., Woolley, W., Parkinson, D. Y., Barnard, H. S., ... & Acevedo, C. (2022). Unraveling the effect of collagen damage on bone fracture using in situ synchrotron microtomography with deep learning. *Nature Communications Materials, 3*(1), 1-13.
 
 Segev-Zarko, L. A., Dahlberg, P. D., Sun, S. Y., __Pelt, D. M.__, Kim, C. Y., Egan, E. S., ... & Boothroyd, J. C. (2022). Cryo-electron tomography with mixed-scale dense neural networks reveals key steps in deployment of Toxoplasma invasion machinery. *PNAS nexus, 1*(4), pgac183.
 
